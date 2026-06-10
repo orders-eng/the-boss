@@ -1,0 +1,67 @@
+{
+  "app_name": "הבוס",
+  "nav": {
+    "home": "בית",
+    "suppliers": "ספקים",
+    "orders": "הזמנות",
+    "staff": "עובדים",
+    "report": "דוח"
+  },
+  "actions": {
+    "income": "הכנסה",
+    "expense": "הוצאה",
+    "new_batch": "סחורה הגיעה",
+    "clock": "נוכחות",
+    "save": "שמור",
+    "cancel": "ביטול",
+    "confirm": "אשר",
+    "back": "חזרה"
+  },
+  "categories": {
+    "delivery_rider": "שליחות",
+    "staff_food": "אוכל צוות",
+    "packaging": "אריזה",
+    "fixed_rent": "שכירות",
+    "fixed_utilities": "חשמל ומים",
+    "fixed_insurance": "ביטוח",
+    "fixed_phone": "טלפון",
+    "other": "אחר"
+  },
+  "payment": {
+    "cash": "מזומן",
+    "credit": "אשראי",
+    "transfer": "העברה",
+    "check": "צ'ק"
+  },
+  "dashboard": {
+    "week": "שבוע",
+    "revenue": "הכנסות",
+    "expenses": "הוצאות",
+    "net_profit": "רווח נקי",
+    "cash_balance": "יתרת קופה",
+    "margin": "שולי רווח",
+    "best_seller": "הכי רווחי השבוע",
+    "open_credits": "זיכויים פתוחים"
+  },
+  "alerts": {
+    "great_week": "שבוע מצוין!",
+    "credit_warning": "שים לב! מגיע לך זיכוי",
+    "deficit_warning": "שבוע גרוע — בדוק עלויות",
+    "unallocated_batch": "יש מלאי לא משויך"
+  },
+  "supplier": {
+    "title": "ספקים",
+    "add": "ספק חדש",
+    "credit_owed": "מגיע לך זיכוי",
+    "pay_supplier": "שלם לספק",
+    "after_credit": "לאחר זיכוי",
+    "claim_discrepancy": "דווח על חוסר",
+    "snap_receipt": "צלם תעודה"
+  },
+  "staff": {
+    "clock_in": "כניסה",
+    "clock_out": "יציאה",
+    "hours": "שעות",
+    "bonus": "בונוס"
+  }
+}
