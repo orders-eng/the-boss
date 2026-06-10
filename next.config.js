@@ -1,11 +1,3 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    domains: ['res.cloudinary.com']
-  },
-  experimental: {
-    serverActions: { allowedOrigins: ['localhost:3000'] }
-  }
-}
-
+const nextConfig = {}
 module.exports = nextConfig
